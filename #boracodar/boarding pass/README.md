@@ -1,7 +1,8 @@
 <h1 align="center"> Cartão de Embarque </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=#FFFAFA&labelColor=#9AB5EC">
+  <img alt="License" src="https://img.shields.io/badge/MIT-License?label=License&labelColor=%239AB5EC&color=FFFAFA
+">
 </p>
 
 ## Tecnologias
