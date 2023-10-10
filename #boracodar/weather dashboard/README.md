@@ -1,8 +1,7 @@
 <h1 align="center"> Painel Meteorológico </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/badge/MIT-License?label=License&labelColor=%239AB5EC&color=FFFAFA
-">
+  <img alt="License" src="https://img.shields.io/badge/MIT-License?label=License&labelColor=%239AB5EC&color=FFFAFA">
 </p>
 
 ## Tecnologias
