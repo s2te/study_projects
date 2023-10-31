@@ -21,12 +21,12 @@ function handleSubmit(e) {
 
 function converter() {
   if (selectedCurrency.value === 'eur') {
-    valueConverted = inputValue.value / 5.5;
+    valueConverted = inputValue.value / 5.25;
     result.innerHTML = valueFormatter('pt-BR', 'EUR');
 
     animateResult();
   } else if (selectedCurrency.value === "dol") {
-    valueConverted = inputValue.value / 5.1;
+    valueConverted = inputValue.value / 4.98;
     result.innerHTML = valueFormatter('en-US', 'USD');
 
     animateResult();
